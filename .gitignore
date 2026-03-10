@@ -1,0 +1,13 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
